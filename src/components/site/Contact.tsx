@@ -68,7 +68,7 @@ export function Contact() {
           <aside className="space-y-4 bg-[color:var(--charcoal)]/50 p-8 md:col-span-2 md:p-10">
             <div className="text-xs uppercase tracking-[0.3em] text-muted-foreground">Faster channels</div>
             {[
-              { icon: MessageCircle, label: "WhatsApp us", sub: "+91 00000 00000", href: "https://wa.me/" },
+              { icon: MessageCircle, label: "WhatsApp us", sub: "+91 9457646701", href: "https://wa.me/919457646701" },
               { icon: Calendar, label: "Book on Calendly", sub: "30-min discovery call", href: "https://calendly.com/" },
               { icon: Mail, label: "Email", sub: "hello@krishna.agency", href: "mailto:hello@krishna.agency" },
             ].map((c) => (

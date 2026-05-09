@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import founderImg from "@/assets/founder-new.jpg";
+import founderImg from "@/assets/founder.jpg";
 
 export function Founder() {
   return (

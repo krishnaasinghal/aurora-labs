@@ -3,22 +3,22 @@ import { Check } from "lucide-react";
 
 const tiers = [
   {
-    name: "Starter",
-    price: "$499",
+    name: "Basic",
+    price: "₹3999",
     tagline: "Launch fast, look premium.",
     features: ["Up to 5 pages", "Mobile responsive", "Basic SEO setup", "5-day delivery", "WhatsApp support"],
     highlight: false,
   },
   {
-    name: "Growth",
-    price: "$999",
+    name: "Advanced",
+    price: "₹7999",
     tagline: "For serious operators ready to scale.",
     features: ["Up to 12 pages", "Custom animations", "CMS / Blog", "Lead capture + CRM", "Unlimited revisions", "Priority WhatsApp"],
     highlight: true,
   },
   {
     name: "Premium",
-    price: "$2,499",
+    price: "₹9,999",
     tagline: "Cinematic experiences. Awwwards-level.",
     features: ["Unlimited pages", "3D / interactive design", "Conversion strategy", "Ecommerce / payments", "Dedicated PM", "30-day post-launch support"],
     highlight: false,

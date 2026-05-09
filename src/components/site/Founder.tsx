@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import founderImg from "@/assets/Ultra_realistic_face_swap_of_202605091738.jpg";
+import founderImg from "@/assets/founder-new.jpg";
 
 export function Founder() {
   return (
